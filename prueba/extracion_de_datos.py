@@ -14,5 +14,8 @@ date= r.text
 # df = pd.read_csv("https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/456d1087-87f9-4e27-9c9c-1d9734c7e51d/download/biblioteca_especializada.csv"
 # df.head()
 
+with open('./biblioteca.csv', 'w+', encoding='UTF-8') as f :
+    f.write(date)
+
 print(date)
 

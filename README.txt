@@ -17,7 +17,7 @@ también se encuentran disponibles todos los Script.sql de todas las consultas y
 *Pasos para ejecutar el Proyecto:
 
 
-Importador.ipynb  se importan los .csv con la url
+Descarga_archivos.ipynb  se importan los .csv con la url
 Conector.py       crea el engine para las conecciones a la base de Datos
 
 Conect_Biblioteca.ipynb}
